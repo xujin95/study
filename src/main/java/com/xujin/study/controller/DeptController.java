@@ -33,7 +33,7 @@ public class DeptController {
 
     @RequestMapping("/hello")
     public String hello() {
-        return "我是一个傻子哈哈哈哈啊啊啊啊啊啊啊2222";
+        return "我是一个傻子哈哈哈哈啊啊啊啊啊啊啊3333";
     }
 
 
